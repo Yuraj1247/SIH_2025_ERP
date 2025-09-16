@@ -15,7 +15,7 @@ export default function HomePage() {
   className="relative bg-cover bg-center bg-no-repeat min-h-screen flex items-center"
   style={{
     backgroundImage:
-      "url('https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-3208-620a-b902-648bb0132c3e/raw?se=2025-09-15T20%3A09%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=107e6516-c682-5c60-9f93-6d959f4db1ef&skoid=5939c452-ea83-4420-b5b4-21182254a5d3&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-14T23%3A07%3A10Z&ske=2025-09-15T23%3A07%3A10Z&sks=b&skv=2024-08-04&sig=2rps2i3m1GOh6h%2BZnjUzdUNPa/poGPzMxDQlGk1PC3w%3D')",
+      "url('/hero.png')",
   }}
 >
   {/* Overlay (optional for readability) */}
